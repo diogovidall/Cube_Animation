@@ -1,7 +1,5 @@
 # Cube_Animation
-<h1 align= "center">Projeto Finalizado ✔️</h1> 
-
-<p> Animação em 3D utilizando CSS!</p> 
+<h1 align= "center">Animação em 3D utilizando CSS!</h1> 
 
 ![Resultado do Projeto:](https://user-images.githubusercontent.com/111745761/224461857-7cc0e1f0-4f12-4540-9a3d-7cc6564b327e.png)
 
